@@ -3,7 +3,6 @@ Final Project for CSCI 425 - Python Machine Learning
 
 ## Collaborators
 Abraham Avila
--
 Klaus King
 
 ## Abstract
