@@ -1,0 +1,14 @@
+Abraham:
+    - Randomforest 
+    - GradientBoost
+    - RBF
+    - SVC
+    - GaussianNaiveBayes
+    - ExtraTrees
+Klaus:
+    - AdaBoost
+    - GaussianProcess
+    - KNN
+    - MLP
+    - DecisionTree
+    - Logistic Regression
