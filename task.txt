@@ -1,6 +1,6 @@
 Abraham:
-    - Randomforest 
-    - GradientBoost
+    - Randomforest [Done]
+    - GradientBoost 
     - RBF
     - SVC
     - GaussianNaiveBayes
