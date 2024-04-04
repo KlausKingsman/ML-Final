@@ -1,13 +1,13 @@
 Abraham:
     - Randomforest [Done]
-    - GradientBoost 
-    - RBF
-    - SVC
-    - GaussianNaiveBayes
-    - ExtraTrees
+    - GradientBoost [Done]
+    - RBF [This is a function used with GPC]
+    - LinearSVC [Done]
+    - GaussianNaiveBayes [Done]
+    - ExtraTrees [Done]
 Klaus:
     - AdaBoost
-    - GaussianProcess
+    - GaussianProcessClassifier
     - KNN
     - MLP
     - DecisionTree
