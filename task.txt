@@ -1,7 +1,8 @@
 Abraham:
     - Randomforest [Done]
     - GradientBoost [Done]
-    - RBF [This is a function used with GPC]
+    - LGBM [Done]
+    - XGBoost [Done]
     - LinearSVC [Done]
     - GaussianNaiveBayes [Done]
     - ExtraTrees [Done]
@@ -12,3 +13,11 @@ Klaus:
     - MLP
     - DecisionTree
     - Logistic Regression
+
+Intro: What is the experiment about? What was the goal of this experiment? [Abe]
+Origin: Where does this research come from? (Show the original paper that used this dataset first i.e MalMem-2022.pdf) [Klaus]
+Dataset/feature selection: What dataset was used and what features were kept or removed? [Abe]
+Models: What models were used to train and test on the dataset? [Klaus]
+Methodology: How was the expeiment conducted? [Abe]
+Results: Which models performed the best? For each task which model would be deployable? [Klaus]
+Conclusion/Outro: Future research? [Abe]
