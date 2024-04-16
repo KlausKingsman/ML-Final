@@ -13,6 +13,7 @@ Klaus:
     - MLP
     - DecisionTree
     - Logistic Regression
+    - Quadratic anaylsis
 
 Intro: What is the experiment about? What was the goal of this experiment? [Abe]
 Origin: Where does this research come from? (Show the original paper that used this dataset first i.e MalMem-2022.pdf) [Klaus]
