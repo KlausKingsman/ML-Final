@@ -1,0 +1,41 @@
+these are results from xgboost on multi-classification task when scaling the data
+
+unscaled
+- Training accuracy: 0.9237633176487797
+- Test accuracy: 0.8735422947835485
+
+scaled w/ standarded scaler
+- Training accuracy: 0.9237633176487797
+- Test accuracy: 0.7519767904886512
+
+scaled w/ minmax scaler
+- Training accuracy: 0.9237633176487797
+- Test accuracy: 0.6435519654132772
+
+scaled w/ maxabs scaler
+- Training accuracy: 0.9237633176487797
+- Test accuracy: 0.6506627225666989
+
+scaled w/ robust scaler
+- Training accuracy: 0.9237633176487797
+- Test accuracy: 0.8231981341373229
+
+scaled w/ quantile transformer
+- Training accuracy: 0.9231781944071971
+- Test accuracy: 0.8095454804027533
+
+scaled w/ power transformer
+- Training accuracy: 0.9240802594046371
+- Test accuracy: 0.8197280846464532
+
+scaled w/ nomralizer
+- Training accuracy: 0.9353926420752371
+- Test accuracy: 0.8602309573923431
+
+scaled w/ binarizer
+- Training accuracy: 0.5041324328936783
+- Test accuracy: 0.502815859832755
+
+unscaled results in better results but we must note that nomralizer
+and (sort of) robust scaler did well. in conclusion we will not scaled
+our dataset
