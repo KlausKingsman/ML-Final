@@ -2,8 +2,13 @@
 Final Project for CSCI 425 - Python Machine Learning
 
 ## Collaborators
-Abraham Avila
+Abraham Avila &\
 Klaus King
+
+## Collaborators Contact
+Author | Contact
+ --- | --- 
+ 
 
 ## Abstract
 In our Machine Learning Project, we will be exploring a variety of different machine learning 
