@@ -1,11 +1,11 @@
 Abraham:
-    - Randomforest [Done]
-    - GradientBoost [Done]
-    - LGBM [Done]
-    - XGBoost [Done]
-    - LinearSVC [Done]
-    - GaussianNaiveBayes [Done]
-    - ExtraTrees [Done]
+    - Randomforest 
+    - GradientBoost 
+    - LGBM 
+    - XGBoost 
+    - LinearSVC 
+    - GaussianNaiveBayes 
+    - ExtraTrees 
 Klaus:
     - AdaBoost
     - KNN
